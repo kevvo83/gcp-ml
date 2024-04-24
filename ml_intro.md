@@ -98,6 +98,14 @@ Reference: https://en.wikipedia.org/wiki/Regularization_(mathematics)
       * Overfits the training data
       * Cannot be used to make predictions on new data
 
+* High Bias - model doesn't model the data enough
+  * What helps:
+    * Need a more complex model
+* High Variance - model overfits the data
+  * What helps:
+    * Need more data
+    * Regularization
+
 ![img.png](pngs/bias_variance_total_error.png)
 
 
