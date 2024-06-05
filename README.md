@@ -13,7 +13,7 @@ This repository stores all notebooks and personal notes from learning Deep Learn
    * [Notebooks/assignments for Course 3 - NLP in TF](https://github.com/kevvo83/gcp-ml/tree/main/Natural%20Language%20Processing%20in%20TensorFlow)
    
 
-2. GCP ML Learning Path - Tensorflow (TF) on GCP
+2. [GCP ML Learning Path - Tensorflow (TF) on GCP](https://partner.cloudskillsboost.google/paths/84)
    * [Notebooks](https://github.com/kevvo83/gcp-ml/tree/main/GCP%20-%20Tensorflow%20on%20Google%20Cloud)
    * Notes:
      * [Professional Machine Learning Engineer Cert Learning Path notes](https://github.com/kevvo83/gcp-ml/blob/main/ml_intro.md)
