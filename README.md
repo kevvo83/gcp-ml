@@ -20,8 +20,7 @@ This repository stores all notebooks and personal notes from learning Deep Learn
     
 
 3. [(A fun and educational) Neural Net exploration in Numpy](https://victorzhou.com/blog/intro-to-neural-networks/)
-   * Hand-rolling NN and RNN implementations
-     * Creating NN and RNN implementations in Numpy
-     * Exploring feed-forward and backpropogation in some detail
-   * [Notebooks](https://github.com/kevvo83/gcp-ml/tree/main/neural_nets_exploration)
+   * Hand-rolling NN (Neural Network) and RNN (Recurrent Neural Network) implementations
+     * Creating [NN](https://github.com/kevvo83/gcp-ml/blob/main/neural_nets_exploration/nnets_intro.ipynb) and [RNN](https://github.com/kevvo83/gcp-ml/blob/main/neural_nets_exploration/rnns_intro.ipynb) implementations in Numpy
+     * Exploring what exactly are feed-forward and backpropogation in some detail, hands on
 
